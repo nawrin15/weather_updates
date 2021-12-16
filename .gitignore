@@ -1,17 +1,11 @@
 ~*
 *.pyc
-localconfig.py
+# localconfig.py
 *.sqlite*
 .env
-test.sh
-test2.sh
 www/compile.sh
 /Dockerfile
 /docker-compose.yml
 /requirements.txt
-package-lock.json
-www/static/sentimentanalysiswebtie/
-www/templates/sentimentanalysiswebtie/
-www/apps/sentimentanalysiswebtie/frontbuild/
 celerybeat-schedule.db
 db_data/
